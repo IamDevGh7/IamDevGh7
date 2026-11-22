@@ -32,14 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IamDevGh7&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=e63946&icon_color=f4a261&text_color=e0e1dd&bg_color=0d1117&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamDevGh7&layout=compact&langs_count=6&theme=dark&title_color=e63946&text_color=e0e1dd&bg_color=0d1117&hide_border=true" />
-</div>
-
----
 
 ### 🤝 Connect with Me
 
