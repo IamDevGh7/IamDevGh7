@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm IamDevGh7 👋
+# Hi there, I'm DevGh7 👋
 
 *"I am the servant, and the follower; I follow God from beginning to end."*
 
